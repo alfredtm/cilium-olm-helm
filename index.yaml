@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  cilium-olm:
+  - apiVersion: v2
+    appVersion: 1.14.3
+    created: "2024-01-19T17:13:19.22259+01:00"
+    description: A Helm chart for deploying cilium-olm
+    digest: d6b4f8f3c011fcfc885fabf0f46a9481a709e39a3dcca3d07339fb9d70fb84ae
+    name: cilium-olm
+    type: application
+    urls:
+    - cilium-olm-1.14.3.tgz
+    version: 1.14.3
+generated: "2024-01-19T17:13:19.214542+01:00"
